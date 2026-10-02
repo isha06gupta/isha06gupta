@@ -1,130 +1,196 @@
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&customColorList=2,3,12,20,24&text=ISHA%20GUPTA&fontSize=55&fontColor=ffffff&fontAlignY=43&desc=SOFTWARE%20ENGINEERING%20%7C%20BACKEND%20%7C%20FULL%20STACK&descSize=15&descAlignY=67" width="100%" />
+</div>
 
-# ISHA GUPTA
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%7C+KIIT+University;Building+Ideas+into+Working+Software;Java+%7C+Spring+Boot+%7C+Backend+Engineering;Learn.+Build.+Debug.+Repeat." alt="Typing introduction" />
+  <br/>
 
-### SOFTWARE ENGINEER · BACKEND & FULL-STACK DEVELOPMENT
-
-**Java | Spring Boot | REST APIs | Databases | Software Engineering**
-
-Building practical software, designing reliable backend systems,  
-and turning complex problems into structured solutions.
+  <a href="https://github.com/isha06gupta"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/isha-gupta-kiit/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/KIIT-University-7B61FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Class_of-2027-00A896?style=for-the-badge" />
+</div>
 
 <br/>
 
-<a href="https://github.com/isha06gupta">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/isha-gupta-kiit/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/Graduating-2027-167D9A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-Backend%20Engineering-315C9B?style=for-the-badge" />
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/fluency/96/code.png" width="42"/><br/>
+        <b>Backend Engineering</b><br/>
+        <sub>APIs & Architecture</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/fluency/96/database.png" width="42"/><br/>
+        <b>Databases</b><br/>
+        <sub>Data & Persistence</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/fluency/96/web.png" width="42"/><br/>
+        <b>Full-Stack</b><br/>
+        <sub>End-to-End Development</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/fluency/96/brain.png" width="42"/><br/>
+        <b>Problem Solving</b><br/>
+        <sub>DSA & CS Fundamentals</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 01 / PROFILE
-
-I'm a Computer Science and Engineering student at **KIIT University**, with a strong interest in backend engineering, full-stack development and software architecture.
-
-My experience includes developing REST APIs, integrating relational databases, implementing authentication and building applications that address practical problems. Through internships and personal projects, I've worked across the software development lifecycle, from understanding requirements and designing workflows to implementation, debugging and testing.
-
-I enjoy understanding how systems work behind the scenes, writing maintainable code and continuously strengthening my fundamentals in computer science.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=65&text=01%20%2F%20THE%20PERSON%20BEHIND%20THE%20CODE&fontSize=23&fontColor=7B61FF&fontAlign=50&fontAlignY=60" width="100%"/>
+</div>
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="65%" valign="middle">
 
-### 2
+### Hi, I'm Isha Gupta!
 
-**Industry Internships**
+I'm a Computer Science and Engineering student at **KIIT University**, graduating in 2027, with a strong interest in backend engineering, full-stack development and software architecture.
 
-EIL · CRIS
+I enjoy understanding how systems work behind the scenes, designing APIs, working with databases and building applications that solve real-world problems.
 
-</td>
-<td width="33%" align="center">
+Through internships and personal projects, I've gained hands-on experience in software development, authentication, data processing, database integration and application design.
 
-### 350+
-
-**DSA Problems**
-
-Solved across platforms
+My approach to engineering is to understand the problem, build a practical solution, debug thoughtfully and keep improving.
 
 </td>
-<td width="33%" align="center">
+<td width="35%" align="center" valign="middle">
 
-### Top 5
+<img src="https://skillicons.dev/icons?i=java,spring,python,js,postgres,mysql,git,docker&perline=4" width="190" />
 
-**Hyperthon KIIT**
+<br/><br/>
 
-Hackathon achievement
+<sub>Curiosity-driven. Project-focused. Always learning.</sub>
 
 </td>
 </tr>
 </table>
 
-## 02 / ENGINEERING EXPERIENCE
+<div align="center">
+
+| 🏆 Hackathon | 🧠 Problem Solving | 💻 Internships |
+|:---:|:---:|:---:|
+| **Top 5** | **350+ DSA** | **EIL & CRIS** |
+| Hyperthon KIIT | Problems solved | Software Development |
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=65&text=02%20%2F%20ENGINEERING%20JOURNEY&fontSize=23&fontColor=00A896&fontAlign=50&fontAlignY=60" width="100%"/>
+</div>
+
+<table>
+<tr>
+<td width="16%" align="center" valign="top">
+
+<img src="https://img.icons8.com/fluency/96/train.png" width="60"/>
+
+**2026**
+
+</td>
+<td width="84%" valign="top">
 
 ### Software Engineering Intern
-**Centre for Railway Information Systems (CRIS)**  
-`May – June 2026` · New Delhi, India
+**Centre for Railway Information Systems (CRIS)** · New Delhi
 
-Worked on a railway-oriented ROH tracking and monitoring system, focusing on operational data, wagon movement and maintenance planning.
+`May – June 2026`
 
-- Developed data-driven workflows using **Python, PostgreSQL, SQL and Pandas**.
-- Worked with railway datasets to support wagon tracking, maintenance planning, distance calculations and ETA-related analysis.
-- Contributed to map-based monitoring, depot proximity analysis and railway operations visualization.
-- Used graph-based station connectivity and geographical data to support operational insights.
+Worked on a railway ROH tracking and monitoring system involving operational data and maintenance planning.
+
+- Developed data-driven workflows using Python, PostgreSQL, SQL and Pandas.
+- Worked with wagon movement, maintenance planning, distance calculations and ETA-related analysis.
+- Contributed to map-based monitoring and depot-proximity features.
+- Worked with railway datasets and graph-based station connectivity.
+
+**Technologies:** `Python` `PostgreSQL` `Pandas` `NetworkX` `Leaflet`
+
+</td>
+</tr>
+<tr>
+<td width="16%" align="center" valign="top">
+
+<img src="https://img.icons8.com/fluency/96/documents.png" width="60"/>
+
+**2025**
+
+</td>
+<td width="84%" valign="top">
 
 ### Software Development Intern
-**Engineers India Limited (EIL)**  
-`May – June 2025` · India
+**Engineers India Limited (EIL)**
 
-Developed an Electronic Document Management System to support vendor and client document workflows.
+`May – June 2025`
 
-- Implemented backend functionality for document management, processing and database integration.
-- Worked on **email OTP verification, role-based access control and authentication workflows**.
-- Developed application features supporting vendor and client interactions.
-- Gained practical experience in debugging, application development and working with structured requirements.
+Developed features for an Electronic Document Management System with vendor and client workflows.
 
-## 03 / SELECTED PROJECTS
+- Implemented email OTP verification and role-based access.
+- Worked on document processing, database integration and backend functionality.
+- Developed and debugged application workflows to support document management.
 
-*Engineering solutions across backend systems, concurrency, databases and application development.*
+**Technologies:** `Java` `Spring Boot` `SQL` `Authentication` `Backend Development`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=65&text=03%20%2F%20SELECTED%20PROJECTS&fontSize=23&fontColor=FF8A45&fontAlign=50&fontAlignY=60" width="100%"/>
+  <sub>A collection of ideas transformed into working applications.</sub>
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
+<div align="center">
+<img src="https://img.icons8.com/fluency/96/conference-call.png" width="55"/>
+
 ### Identity Reconciliation System
 
-[View Repository ↗](https://github.com/isha06gupta/Identity-Reconciliation-System)
+<a href="https://github.com/isha06gupta/Identity-Reconciliation-System">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7B61FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
 
-A backend service that identifies and consolidates multiple contact records belonging to the same customer into a unified identity.
+A backend service that reconciles multiple contact records to identify and unify customer identities.
 
-- Reconciles incoming contact information using email and phone data.
-- Handles primary and secondary contact relationships.
-- Exposes identity reconciliation functionality through a REST API.
-
-**Stack**
+- Identifies relationships between email addresses and phone numbers.
+- Handles primary and secondary contact records.
+- Provides identity reconciliation through a backend API.
 
 `Java` `Spring Boot` `PostgreSQL` `REST API`
 
 </td>
 <td width="50%" valign="top">
 
+<div align="center">
+<img src="https://img.icons8.com/fluency/96/link.png" width="55"/>
+
 ### URL Shortener
 
-[View Repository ↗](https://github.com/isha06gupta/url-shortener)
+<a href="https://github.com/isha06gupta/url-shortener">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00A896?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
 
-A backend application for generating short URLs, redirecting users and tracking link activity.
+A backend application for creating short URLs and tracking link activity.
 
-- Generates unique short links and supports redirection.
-- Tracks click counts and link analytics.
-- Provides REST endpoints and database-backed persistence.
-
-**Stack**
+- Generates short links and handles redirection.
+- Tracks click counts and analytics.
+- Supports REST APIs and persistent storage.
 
 `Java` `Spring Boot` `MySQL` `JPA`
 
@@ -133,32 +199,39 @@ A backend application for generating short URLs, redirecting users and tracking 
 <tr>
 <td width="50%" valign="top">
 
+<div align="center">
+<img src="https://img.icons8.com/fluency/96/downloads.png" width="55"/>
+
 ### Multi-Threaded File Downloader
 
-[View Repository ↗](https://github.com/isha06gupta/multi-threaded-downloader)
+<a href="https://github.com/isha06gupta/multi-threaded-downloader">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-4285F4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
 
-A concurrent file downloader designed to manage downloads efficiently using a thread pool.
+A concurrent downloader designed to improve download handling through multithreading.
 
-- Uses `ThreadPoolExecutor` for concurrent execution.
-- Implements retry handling for failed downloads.
-- Provides progress tracking through `tqdm`.
-
-**Stack**
+- Uses ThreadPoolExecutor for concurrent tasks.
+- Implements retry logic and error handling.
+- Displays progress using progress bars.
 
 `Python` `Multithreading` `ThreadPoolExecutor`
 
 </td>
 <td width="50%" valign="top">
 
+<div align="center">
+<img src="https://img.icons8.com/fluency/96/worker.png" width="55"/>
+
 ### KaamConnect
 
-A role-based job-matching platform connecting workers, employers and NGOs through structured workflows.
+</div>
 
-- Supports role-based access and authentication using JWT.
-- Connects workers with relevant employment opportunities.
+A role-based platform connecting workers, employers and NGOs through employment workflows.
+
+- Provides role-based access and JWT authentication.
+- Supports worker and employer interactions.
 - Includes verification and dispute-resolution workflows.
-
-**Stack**
 
 `Java` `Spring Boot` `MySQL` `JWT` `JavaScript`
 
@@ -167,30 +240,36 @@ A role-based job-matching platform connecting workers, employers and NGOs throug
 <tr>
 <td width="50%" valign="top">
 
-### ROH Tracking & Monitoring System
+<div align="center">
+<img src="https://img.icons8.com/fluency/96/train.png" width="55"/>
 
-A railway operations solution developed during my CRIS internship to support wagon tracking and maintenance monitoring.
+### ROH Tracking & Monitoring
 
-- Combines railway operational data and wagon movement information.
-- Supports depot proximity, distance calculations and ETA-related analysis.
-- Includes map-based monitoring and geographical visualization.
+</div>
 
-**Stack**
+A railway operations system supporting wagon tracking and maintenance monitoring, developed during my CRIS internship.
+
+- Supports wagon movement and maintenance analysis.
+- Provides distance, depot-proximity and ETA-related insights.
+- Uses map-based operational visualization.
 
 `Python` `PostgreSQL` `Pandas` `NetworkX` `Leaflet`
 
 </td>
 <td width="50%" valign="top">
 
+<div align="center">
+<img src="https://img.icons8.com/fluency/96/folder-tree.png" width="55"/>
+
 ### Mini File System Simulator
 
-A C-based simulation of a hierarchical file system, designed to explore file operations and directory structures.
+</div>
 
-- Simulates hierarchical directories and file operations.
-- Supports recursive traversal and shell-like navigation.
-- Applies data structures to model file system behavior.
+A C-based simulation of a hierarchical file system.
 
-**Stack**
+- Models directories and file operations.
+- Implements recursive traversal.
+- Supports shell-like navigation.
 
 `C` `Data Structures` `File Systems`
 
@@ -198,122 +277,133 @@ A C-based simulation of a hierarchical file system, designed to explore file ope
 </tr>
 </table>
 
-## 04 / TECHNICAL EXPERTISE
+---
 
-<table>
-<tr>
-<td width="25%"><b>Languages</b></td>
-<td>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</td>
-</tr>
-<tr>
-<td><b>Backend</b></td>
-<td>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-345B74?style=flat-square" />
-<img src="https://img.shields.io/badge/JPA-345B74?style=flat-square" />
-<img src="https://img.shields.io/badge/JDBC-345B74?style=flat-square" />
-</td>
-</tr>
-<tr>
-<td><b>Frontend</b></td>
-<td>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</td>
-</tr>
-<tr>
-<td><b>Databases</b></td>
-<td>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td><b>Tools & Platforms</b></td>
-<td>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-Basics-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-</td>
-</tr>
-</table>
-
-**Computer Science:** Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating Systems · Computer Networks · SDLC · Debugging
-
-## 05 / ACHIEVEMENTS & DEVELOPMENT
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Achievements**
-
-- **Top 5**, Hyperthon KIIT Hackathon
-- **350+ DSA problems** solved across coding platforms
-- Software development internship experience at EIL and CRIS
-- Built projects across backend engineering, databases, web development and machine learning
-
-</td>
-<td width="50%" valign="top">
-
-**Currently Developing**
-
-- Stronger problem-solving and DSA skills
-- Backend architecture and system design fundamentals
-- Cloud deployment and development practices
-- Maintainable, scalable and well-structured applications
-
-</td>
-</tr>
-</table>
-
-## 06 / GITHUB ACTIVITY
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=65&text=04%20%2F%20MY%20DEVELOPER%20TOOLKIT&fontSize=23&fontColor=4285F4&fontAlign=50&fontAlignY=60" width="100%"/>
+</div>
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=isha06gupta&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isha06gupta&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages" />
+### Languages
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=java,python,c,js" />
 
-<img width="75%" src="https://streak-stats.demolab.com?user=isha06gupta&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+### Backend & Frameworks
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,vscode" />
 
 </div>
 
-<sub>Statistics are provided by external services and may occasionally be unavailable. Language distribution reflects repository contents, not proficiency.</sub>
+<details>
+<summary><b>Computer Science Fundamentals</b></summary>
 
-## 07 / BEYOND THE CODE
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+- REST API Design
+- Software Development Life Cycle
+- Debugging and API Integration
 
-I enjoy exploring how software systems are designed, solving problems through hands-on development, and learning new technologies by applying them to real projects.
-
-My approach to engineering is simple: understand the problem, build with purpose, debug carefully and improve continuously.
+</details>
 
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=65&text=05%20%2F%20GITHUB%20ACTIVITY&fontSize=23&fontColor=E879F9&fontAlign=50&fontAlignY=60" width="100%"/>
+</div>
 
-### LET'S BUILD SOMETHING MEANINGFUL.
+<div align="center">
 
-Open to connecting with developers, exchanging ideas and collaborating on software projects.
-
-<a href="https://github.com/isha06gupta">
-  <img src="https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/isha-gupta-kiit/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=isha06gupta&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isha06gupta&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 <br/><br/>
 
-<sub>Designed with curiosity, built through consistency.</sub>
+<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=isha06gupta&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=isha06gupta&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<sub>GitHub statistics are generated by third-party services. They may occasionally be unavailable, and language distribution reflects repository contents rather than proficiency.</sub>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=65&text=06%20%2F%20STUDENT%20LIFE%20%26%20CURRENT%20SPRINT&fontSize=21&fontColor=F59E0B&fontAlign=50&fontAlignY=60" width="100%"/>
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Learning in progress
+
+- Strengthening DSA and problem-solving skills
+- Exploring backend architecture and system design
+- Understanding cloud technologies and deployment
+- Improving code quality and software engineering practices
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ Beyond assignments
+
+- Learning by building practical projects
+- Exploring new technologies and development approaches
+- Participating in coding challenges and hackathons
+- Balancing academic learning with hands-on engineering
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/THINK-7B61FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/DESIGN-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/BUILD-00A896?style=flat-square"/>
+<img src="https://img.shields.io/badge/DEBUG-FF8A45?style=flat-square"/>
+<img src="https://img.shields.io/badge/IMPROVE-E879F9?style=flat-square"/>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=65&text=07%20%2F%20LET'S%20CONNECT&fontSize=23&fontColor=00A896&fontAlign=50&fontAlignY=60" width="100%"/>
+
+  Interested in software engineering, backend development, collaboration and learning from other developers.
+
+  <br/><br/>
+
+  <a href="https://github.com/isha06gupta">
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/isha-gupta-kiit/">
+    <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20,24&height=100&section=footer" width="100%"/>
+
+  <sub>Designed with curiosity · Built through consistency · Always evolving</sub>
 </div>
