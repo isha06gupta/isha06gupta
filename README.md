@@ -1,156 +1,158 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:141E30,100:243B55&text=ISHA%20GUPTA&fontColor=FFFFFF&fontSize=48&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20Backend%20Engineering&descAlignY=66&descSize=17" alt="Isha Gupta profile banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:101820,50:243B53,100:00C9A7&text=ISHA%20GUPTA&fontColor=FFFFFF&fontSize=58&fontAlignY=42&desc=I%20turn%20coffee%20%2B%20curiosity%20into%20code&descAlignY=65&descSize=17" alt="Isha Gupta — developer profile banner" />
 </div>
 
 <div align="center">
 
-### Java · Spring Boot · REST APIs · PostgreSQL
-
-Building practical software, learning through hands-on engineering, and improving one iteration at a time.
-
-[![GitHub followers](https://img.shields.io/github/followers/isha06gupta?style=flat&logo=github&label=Followers)](https://github.com/isha06gupta?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/isha06gupta?style=flat&logo=github&label=Stars)](https://github.com/isha06gupta?tab=repositories)
-[![Profile views](https://komarev.com/ghpvc/?username=isha06gupta&style=flat&color=blueviolet)](https://github.com/isha06gupta)
-
+Full-Stack Developer · Backend Engineering · Java & Spring Boot
+Building things that work, breaking things to learn, and occasionally asking “why is this null?”
+ 
+ 
+ 
 </div>
 
-<div align="center">
-  <a href="#about-me">About</a> •
-  <a href="#experience">Experience</a> •
-  <a href="#featured-projects">Projects</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#github-activity">GitHub Activity</a> •
-  <a href="#connect">Connect</a>
-</div>
+isha@github:~$ whoami
+Hey, I'm Isha. I build software—and debug my own assumptions.
+I'm a Computer Science and Engineering student at KIIT University (2027), interested in backend engineering, full-stack development, and how systems fit together behind the scenes.
+I like turning a vague problem into a working application: shaping APIs, designing database flows, handling authentication, and making the whole thing usable. I learn best by building, testing, debugging, and improving.
+Developer isha = new Developer()
+    .interests("Backend Engineering", "Full-Stack Development", "System Design")
+    .stack("Java", "Spring Boot", "SQL", "JavaScript", "Python")
+    .mindset("Build → Debug → Learn → Repeat")
+    .status("Currently compiling...");
+<details>
+<summary><b>One-line system report</b> (click to expand)</summary>
 
----
+- Current mission: Become a thoughtful software engineer by building real, useful products.
+- Known issue: Sometimes spends longer understanding the bug than writing the feature.
+- Default response to errors: Read the logs. Then read them again.
+- Long-term goal: Design dependable software that solves practical problems.
+</details>
 
-## About Me
+isha@github:~$ cat experience.log
+Experience
+<details open>
+<summary><b>Software Engineering Intern · Centre for Railway Information Systems (CRIS)</b> — May–June 2026</summary>
 
-I'm a Computer Science and Engineering student at **KIIT University (2027)** interested in backend engineering and full-stack development. I enjoy building applications that connect APIs, databases, authentication and user-facing workflows—and understanding the engineering decisions behind them.
-
-- 🎓 B.Tech in Computer Science and Engineering
-- 💻 Focus areas: Java, Spring Boot, REST APIs and database-backed applications
-- 🧩 Practising DSA and strengthening CS fundamentals
-- 🌱 Exploring system design, cloud technologies and reliable software delivery
-- 🤝 Interested in collaborating on useful, well-engineered software
-
-## Experience
-
-### Software Engineering Intern — Centre for Railway Information Systems (CRIS)
-**May–June 2026 · New Delhi, India**
-
+New Delhi, India
 - Contributed to a railway ROH tracking and monitoring system.
-- Worked with Python, PostgreSQL, SQL and railway operational datasets.
-- Supported workflows involving wagon movement, maintenance planning, distance calculations and ETA-related analysis.
-- Worked on map-based monitoring and depot-proximity features.
+- Worked with Python, PostgreSQL, SQL, and railway operational datasets.
+- Supported workflows involving wagon movement, maintenance planning, distance calculations, and ETA-related analysis.
+- Contributed to map-based monitoring and depot-proximity features.
+</details>
 
-### Software Development Intern — Engineers India Limited (EIL)
-**May–June 2025**
+<details>
+<summary><b>Software Development Intern · Engineers India Limited (EIL)</b> — May–June 2025</summary>
 
 - Developed features for an Electronic Document Management System with vendor and client workflows.
-- Worked on email OTP verification, role-based access and document-processing flows.
+- Worked on email OTP verification, role-based access, and document-processing flows.
 - Integrated application functionality with database operations and supported debugging.
+</details>
 
-## Featured Projects
+isha@github:~$ ls ./things-built
+Things I've built
+Some projects start with a problem statement. Others start with “I wonder if I can build that.”
+<table>
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">What it does</th>
+      <th align="left">Built with</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/isha06gupta/Identity-Reconciliation-System"><b>Identity Reconciliation System</b></a></td>
+      <td>Connects multiple contact records and reconciles them into a unified customer identity through a backend API.</td>
+      <td>Java · Spring Boot · PostgreSQL</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/isha06gupta/url-shortener"><b>URL Shortener</b></a></td>
+      <td>Creates short links, redirects users, and tracks click analytics through REST endpoints.</td>
+      <td>Java · Spring Boot · MySQL · JPA</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/isha06gupta/multi-threaded-downloader"><b>Multi-Threaded File Downloader</b></a></td>
+      <td>Downloads files concurrently with a thread pool, retry handling, and progress tracking.</td>
+      <td>Python · ThreadPoolExecutor · tqdm</td>
+    </tr>
+    <tr>
+      <td><b>KaamConnect</b></td>
+      <td>A role-based platform connecting workers, employers, and NGOs, with verification and dispute-resolution workflows.</td>
+      <td>Java · Spring Boot · MySQL · JWT · JavaScript</td>
+    </tr>
+    <tr>
+      <td><b>ROH Tracking & Monitoring</b></td>
+      <td>Supports railway operations through wagon tracking, maintenance insights, depot proximity, and ETA-related analysis.</td>
+      <td>Python · PostgreSQL · Pandas · NetworkX · Leaflet</td>
+    </tr>
+    <tr>
+      <td><b>Mini File System Simulator</b></td>
+      <td>Simulates hierarchical directories, file operations, recursive traversal, and shell-like navigation.</td>
+      <td>C · Data Structures</td>
+    </tr>
+  </tbody>
+</table>
 
-### [Identity Reconciliation System](https://github.com/isha06gupta/Identity-Reconciliation-System)
-A backend service for reconciling multiple contact records and linking them to a unified customer identity.
+<sub>Project links are included where a public repository URL is known. Add links or demos for the remaining projects when they are publicly available. Share only internship work approved for public release.</sub>
+isha@github:~$ ./toolbox --list
+My toolbox
+<div align="center">
 
-`Java` `Spring Boot` `PostgreSQL`
+Languages
+ 
+ 
+ 
+ 
+Backend & APIs
+ 
+ 
+ 
+ 
+Frontend
+ 
+ 
+ 
+Databases, tools & platforms
+ 
+ 
+ 
+ 
+ 
+ 
+</div>
 
-### [URL Shortener](https://github.com/isha06gupta/url-shortener)
-A REST API for generating short links, redirecting users and tracking click analytics.
-
-`Java` `Spring Boot` `MySQL` `JPA`
-
-### [Multi-Threaded File Downloader](https://github.com/isha06gupta/multi-threaded-downloader)
-A Python downloader using concurrent workers, retry handling and progress tracking.
-
-`Python` `ThreadPoolExecutor` `tqdm`
-
-### ROH Tracking & Monitoring System
-A railway operations project focused on wagon movement, maintenance requirements, depot proximity and ETA-related analysis.
-
-`Python` `PostgreSQL` `Pandas` `NetworkX` `Leaflet`
-
-### KaamConnect
-A role-based platform connecting workers, employers and NGOs, with verification and dispute-resolution workflows.
-
-`Java` `Spring Boot` `MySQL` `JWT` `JavaScript`
-
-### Mini File System Simulator
-A C-based simulation of hierarchical directories, file operations, recursive traversal and shell-like navigation.
-
-`C` `Data Structures`
-
-> Add repository or demo links to the projects above only when their public URLs are available. For internship work, share only material approved for public release.
-
-## Tech Stack
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Backend & APIs**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Databases & Tools**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Basics-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
-**Computer Science:** Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks
-
-## Achievements
-
-- 🏆 Top 5, Hyperthon KIIT Hackathon
-- 💡 Solved 350+ DSA problems across coding platforms
-- 🛠️ Built projects across backend development, databases, web applications and machine learning
-
-## Currently Learning
-
-- Strengthening DSA and problem-solving
+CS fundamentals: Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks · SDLC
+isha@github:~$ git log --achievements
+Milestones unlocked
+- 🏆 Top 5 — Hyperthon KIIT Hackathon
+- 🧠 350+ DSA problems solved across coding platforms
+- 🧰 Practical software development experience through internships at EIL and CRIS
+- 🚀 Projects spanning backend systems, databases, web development, and machine learning
+isha@github:~$ tail -n 4 currently-learning.txt
+Current sprint
+- Strengthening DSA and problem-solving consistency
 - Exploring scalable backend architecture and system design
-- Improving cloud, deployment and software engineering practices
-
-## GitHub Activity
-
+- Improving cloud, deployment, and software engineering practices
+- Building projects with clean code, useful features, and thoughtful design
+isha@github:~$ git status --short
+GitHub, in graphs
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=isha06gupta&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isha06gupta&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=isha06gupta&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isha06gupta&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages" />
   <br/>
-  <img width="85%" src="https://streak-stats.demolab.com?user=isha06gupta&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img width="75%" src="https://streak-stats.demolab.com?user=isha06gupta&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
-<!-- Optional: Enable a GitHub Actions workflow to generate the snake SVG before uncommenting.
-<div align="center">
-  <img src="https://raw.githubusercontent.com/isha06gupta/isha06gupta/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-</div>
--->
-
-## Connect
-
+<sub>Stats are generated by external services and may take time to update or occasionally be unavailable. Language charts represent repository code, not a direct measure of proficiency.</sub>
+isha@github:~$ ./connect.sh
+Let's connect
+I'm interested in meeting developers, learning from different approaches, and collaborating on meaningful software projects.
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-isha06gupta-181717?style=for-the-badge&logo=github)](https://github.com/isha06gupta)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isha-gupta-kiit/)
+ 
+ 
 
+“First make it work. Then make it clear. Then make it better.”
+<sub>Thanks for visiting my corner of GitHub. May your builds pass and your bugs be reproducible.</sub>
 </div>
