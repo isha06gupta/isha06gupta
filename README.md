@@ -346,10 +346,6 @@ A C-based simulation of a hierarchical file system.
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=65&text=06%20%2F%20STUDENT%20LIFE%20%26%20CURRENT%20SPRINT&fontSize=21&fontColor=F59E0B&fontAlign=50&fontAlignY=60" width="100%"/>
-</div>
-
 <table>
 <tr>
 <td width="50%" valign="top">
